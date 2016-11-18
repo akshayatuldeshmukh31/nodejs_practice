@@ -1,0 +1,13 @@
+{
+	"name": "nodejs-practice",
+	"version": "0.0.0",
+	"description": "Just for practice",
+	"author": "Akshay Deshmukh",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "*",
+		"body-parser": "*"
+	}
+}
