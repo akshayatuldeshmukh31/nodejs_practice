@@ -1,13 +1,17 @@
 {
-	"name": "nodejs-practice",
-	"version": "0.0.0",
-	"description": "Just for practice",
-	"author": "Akshay Deshmukh",
-	"scripts": {
-		"start": "node index.js"
-	},
-	"dependencies": {
-		"express": "*",
-		"body-parser": "*"
-	}
+  "name": "nodejs-practice",
+  "version": "0.0.0",
+  "description": "Just for practice",
+  "author": "Akshay Deshmukh",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshayatuldeshmukh31/nodejs_practice.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
 }
